@@ -1,6 +1,6 @@
 # Bootcamp Homework for Module 1 - Excel
 
-For this project, I analyzed a dataset of kickstarter projects.
+For this assignment, I analyzed a dataset of kickstarter projects.
 
 I demonstrated the basics of data cleaning by changing the formats of several date columns, creating two new category columns using the TEXTSPLIT function, and by making a new column that calculated the percent funded for projects. I then applied conditional formatting to help make the raw datasheet more readable. 
 
