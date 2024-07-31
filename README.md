@@ -1,5 +1,4 @@
-# ds_module_1_excel
-Homework for Module 1 - Excel
+# Bootcamp Homework for Module 1 - Excel
 
 For this project, I analyzed a dataset of kickstarter projects.
 
